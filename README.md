@@ -1,6 +1,15 @@
 # English Trip App 🇺🇸✈️🇮🇱
 
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
+[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TAPUZE/pre-A1-ENGLISH-Flutter)
+
 A comprehensive PRE A1 English Learning Platform built with Flutter, featuring interactive exercises, games, and a progressive learning journey from Tel Aviv to New York.
+
+## 🚀 Live Demo
+
+- **Web App**: Run `flutter run -d web-server --web-port=8080` and visit `http://localhost:8080`
+- **Repository**: [GitHub - TAPUZE/pre-A1-ENGLISH-Flutter](https://github.com/TAPUZE/pre-A1-ENGLISH-Flutter)
 
 ## Features
 
